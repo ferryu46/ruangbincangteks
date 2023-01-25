@@ -2,13 +2,13 @@
 
 [![CircleCI](https://circleci.com/gh/darkwire/darkwire.io.svg?style=svg)](https://circleci.com/gh/darkwire/darkwire.io)
 
-Simple encrypted web chat. Powered by [socket.io](http://socket.io), the [web cryptography API](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto). This project is an example of how client side encryption works and how you can integrate it as a chat service.
+Fitur ruang obrol sederhana dan terenkripsi. Dikembangkan dengan optimalisasi penggunaan [socket.io](http://socket.io), dan [web cryptography API](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto). Fitur ini mengintegrasikan penggunaan enkripsi dari sisi klien dalam pengembangan layanan obrol berbasis teks (chat).
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Darkwire Server
 
-[Darkwire server](/server) is a Node.js application.
+[Pelayan Darkwire ](/server) merupakan aplikasi yang dikembangkan dengan Node.js.
 
 ### Darkwire Web Client
 
